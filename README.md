@@ -6,3 +6,7 @@ At the linux or ubuntu prompt, type this command in the object_detection directo
 
 See my youtube video here: 
 https://youtu.be/wfEa3KpEjbo
+
+https://youtu.be/gUTWG7JWWOA
+
+https://youtu.be/40QwCpkmMJI
